@@ -1,0 +1,10 @@
+{
+  "name": "사고 SOS 체크리스트",
+  "short_name": "사고SOS",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f3f4f6",
+  "theme_color": "#f5a300",
+  "lang": "ko",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
